@@ -1,7 +1,18 @@
-# Hey there! 👋 I'm Alan Geo Kurian
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11&height=250&section=header&text=Alan%20Geo%20Kurian&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Dev%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=22&animation=twinkling" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+Developer;Flutter+Developer;Building+Scalable+Apps&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;React+%7C+Node.js+Developer;Flutter+Enthusiast;Building+Scalable+Apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alan-geo-kurian-b34124304/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/agk8055">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -18,65 +29,59 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+<div align="center">
+  
+  ### Frontend & Mobile
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+  ### Backend & Database
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-
----
-
-## 📊 GitHub Stats
-
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=agk8055&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=agk8055&theme=tokyonight)
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎬 CinePlus
-A **movie ticket booking platform** with city filtering, seat selection, and demo payment gateway integration.
-
-**Tech:** React, Node.js, Express.js, MongoDB, Razorpay
-
----
-
-### 🍔 FoodNow
-A **food ordering and discovery app** that allows users to browse restaurants and order food easily.
-
-**Tech:** Flutter, Firebase
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/alan-geo-kurian-b34124304/
-
-- 💻 GitHub:  
-  https://github.com/agk8055
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 CinePlus</h3>
+      <p>A comprehensive <strong>movie ticket booking platform</strong> featuring intuitive city filtering, interactive seat selection, and a fully integrated demo payment gateway.</p>
+      <p><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Razorpay</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍔 FoodNow</h3>
+      <p>A <strong>surplus food discovery and ordering app</strong> designed to reduce food waste by seamlessly connecting users with local restaurants and available meals.</p>
+      <p><strong>Tech Stack:</strong> Flutter, Firebase</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-⭐ From [agk8055](https://github.com/agk8055)
+## 🌌 My Coding Journey
+
+<div align="center">
+  <h3>📈 3D Contribution Graph</h3>
+  <img src="https://raw.githubusercontent.com/agk8055/agk8055/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" />
+</div>
+
+---
+
+## 📊 Analytics
+
+[![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agk8055&show_icons=true&theme=tokyonight)](https://github.com/agk8055)
+[![GitHub Streak](https://streak-stats.demolab.com?user=agk8055&theme=tokyonight)](https://github.com/agk8055)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agk8055&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
