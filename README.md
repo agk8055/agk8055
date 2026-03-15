@@ -47,35 +47,6 @@
 
 </div>
 
----
-
-## 📌 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 CinePlus</h3>
-      <p>A comprehensive <strong>movie ticket booking platform</strong> featuring intuitive city filtering, interactive seat selection, and a fully integrated demo payment gateway.</p>
-      <p><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Razorpay</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍔 FoodNow</h3>
-      <p>A <strong>surplus food discovery and ordering app</strong> designed to reduce food waste by seamlessly connecting users with local restaurants and available meals.</p>
-      <p><strong>Tech Stack:</strong> Flutter, Firebase</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌌 My Coding Journey
-
-<div align="center">
-  <h3>📈 3D Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/agk8055/agk8055/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" />
-</div>
-
----
 
 ## 📊 Analytics
 
